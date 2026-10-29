@@ -1,2 +1,10 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
 User-agent: *
 Disallow: /
+
+Sitemap: https://prompolybelarus.com/sitemap.xml
